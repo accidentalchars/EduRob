@@ -1,4 +1,7 @@
 # EduRobV2
+
+[![Forked from](https://img.shields.io/badge/forked%20from-original--repo-blue)](https://github.com/IDiAL-IMSL/Edurob)
+
 [Homepage](https://www.imsl.fh-dortmund.de/mobile-roboter/edurob/)
 ## Educational robot with support for various drive kinematics
 
